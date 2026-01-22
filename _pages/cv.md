@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
 nav: true
@@ -9,3 +9,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
+<iframe src="https://drive.google.com/file/d/1VNp52HEesHoWAzIqDXvpSkosC1bcKxUc/preview" width="640" height="480"></iframe>
